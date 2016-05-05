@@ -1,5 +1,7 @@
 #!/bin/bash
-
+# Main Repo: https://github.com/gacomm/hype-patches.git
+# 
+# ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 # Force Internet Explorer to hide scrollbars on iframes
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #
