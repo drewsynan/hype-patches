@@ -14,8 +14,8 @@
 # copy the script into the runtime directory (containing HYPE-(somenumber).full.min.js and/or HYPE-(somenum).thin.min.js)
 # cd to the directory and run the script
 
-# bash$ cp ie-frame-noscroll.sh the_dir \
-#	&& cd the_dir \
+# bash$ cp ie-frame-noscroll.sh the_dir/ie-frame-noscroll.sh \
+#   && cd the_dir \
 #   && ./ie-frame-noscroll.sh \
 #   && rm ie-frame-noscroll.sh
 
